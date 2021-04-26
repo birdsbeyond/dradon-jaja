@@ -56,7 +56,7 @@ if __name__ == '__main__':
 ~~~
 ## 好像还得有个链接？整一个----->[全球最大肥宅交流社区](https://github.com)
 
-## 再来个指向隔壁的---->[whatever.md]https://github.com/birdsbeyond/dradon-jaja/blob/master/whatever.md)
+## 再来个指向隔壁的---->[whatever.md](https://github.com/birdsbeyond/dradon-jaja/blob/master/whatever.md)
 
 # 表格嘛，整一个
 | 左对齐 | 右对齐 | 居中对齐 |
