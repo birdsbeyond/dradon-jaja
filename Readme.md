@@ -54,6 +54,16 @@ def main():
 if __name__ == '__main__':
     main()
 ~~~
-## 好像还得有个链接？整一个----->[全球最大同性交友网站](https://github.com)
+## 好像还得有个链接？整一个----->[全球最大肥宅交流社区](https://github.com)
 
 ## 再来个指向隔壁的---->[whatever.md](https://github.com/birdsbeyond/dradon-jaja/whatever.md)
+
+# 表格嘛，整一个
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
+
+# 哦对，图片
+![那就贝加尔湖](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyP8E7X_iSvEVGoT2XUmtlAQ53MSfCc5wa4A&usqp=CAU)
+![北欧森林](https://mod.3dmgame.com/static/upload/mod/201907/MOD5d2f6404e3bf9.jpeg)
